@@ -8,14 +8,6 @@
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I don’t know all the answers, but I love figuring them out.
 
----
- 🚀 Projects I'm Proud Of
-- [🎮 Sudoku Game](https://github.com/NandaniMangal31/sudoku_Game)
-- [📦 Furniture eCommerce Website](https://github.com/NandaniMangal31/myfurniture)
-- [📊 Sortable + Searchable Table](https://github.com/NandaniMangal31/searchable_sortable_table)
-- [🎲 Tic Tac Toe](https://github.com/NandaniMangal31/tic_tac_toe)
-
----
 
  🧠 Skills
 - 🌐 HTML, CSS, JavaScript, React.js  
